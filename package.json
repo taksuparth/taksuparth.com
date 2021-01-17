@@ -1,0 +1,34 @@
+{
+  "name": "taksuparth.com",
+  "version": "1.0.0",
+  "description": "My personal website",
+  "author": {
+    "name": "Parth Bhavesh Shah",
+    "email": "taksuparth@gmail.com",
+    "url": "https://taksuparth.com"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taksuparth/taksuparth.com.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/taksuparth/taksuparth.com/issues"
+  },
+  "homepage": "https://github.com/taksuparth/taksuparth.com#readme",
+  "dependencies": {
+    "next": "^10.0.5",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.21",
+    "@types/react": "^17.0.0",
+    "typescript": "^4.1.3"
+  }
+}
