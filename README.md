@@ -7,7 +7,7 @@ This portfolio is built using
 
 Deployed using
 
-- [Vercel][https://vercel.com/]
+- [Vercel](https://vercel.com/)
 - Changes to the Git repo are continuously deployed. [Deployment status](https://vercel.com/taksuparth/taksuparth-com)
 
 ## Running Locally
